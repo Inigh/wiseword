@@ -1,3 +1,5 @@
+import { useState } from 'react';
+import { Quote } from '../../constants/quote';
 import * as S from './style';
 
 const Quete = () => {
