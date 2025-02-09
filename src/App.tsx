@@ -1,8 +1,10 @@
+import Quote from './components/Quote';
+
 const App = () => {
   return (
-    <div>
-      <h1>앱 시작티비</h1>
-    </div>
+    <>
+      <Quote />
+    </>
   )
 }
 
